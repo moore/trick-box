@@ -44,5 +44,28 @@ This is where I am collecting options for building a "palm top" computer to carr
 - https://www.adafruit.com/product/2219
 - up to 1080p HDMI
 
+## Keyboards
+
+### Contra
+- https://github.com/ai03-2725/Contra
+- 40% rectalinier
+- has KiCad files
+- 230x76mm
+
+### Gherkin Express
+- https://www.40percent.club/2020/08/thinner-gherkin-express.html
+- mini pcb keyboard (credit card size)
+
+### Chiclet style keycaps fit 16mm spacing
+- https://www.40percent.club/2018/03/16mm-keycaps.html
+
+### feegle
+- https://www.40percent.club/2020/10/feegle.html
+- credit card sized keyboard
+- neet idea of using topplait pcb to label keys
+
+### Thinnest Gherkin
+- extra thing keyoard
+- https://www.40percent.club/2018/02/thinnest-gherkin.html
 
 
