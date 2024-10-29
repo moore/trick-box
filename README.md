@@ -71,4 +71,8 @@ This is where I am collecting options for building a "palm top" computer to carr
 
 ### PouetPouet
 - https://github.com/dkm/pouetpouet-board
-- interesting 5 row key board with rust fermware
+- interesting 5 row key board with rust firmware.
+
+### KeyToKey
+- KeyToKey (K2K) is a Rust libary for building keyboard firmwares.
+- https://github.com/TyberiusPrime/KeyToKey
