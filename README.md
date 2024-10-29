@@ -69,3 +69,6 @@ This is where I am collecting options for building a "palm top" computer to carr
 - https://www.40percent.club/2018/02/thinnest-gherkin.html
 
 
+### PouetPouet
+- https://github.com/dkm/pouetpouet-board
+- interesting 5 row key board with rust fermware
