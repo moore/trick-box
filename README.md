@@ -85,5 +85,6 @@ This is where I am collecting options for building a "palm top" computer to carr
 
 ### Orange Pi Zero 2W
 - $22-$33 depending on ram 1G-4G
+- Onboard flash is SPI
 - https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-Zero-2W.html
 - Thread on power mangment https://forum.armbian.com/topic/11088-how-to-return-orange-pi-zero-from-power-saving-mode/
