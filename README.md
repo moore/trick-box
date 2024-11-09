@@ -76,3 +76,14 @@ This is where I am collecting options for building a "palm top" computer to carr
 ### KeyToKey
 - KeyToKey (K2K) is a Rust libary for building keyboard firmwares.
 - https://github.com/TyberiusPrime/KeyToKey
+
+## SBCs
+
+### Banana Pi BPI-M4 Zero with Allwinner H618 chip design with 2G RAM
+- $24.50 plus shipping for 2GB RAM and 8GB eMMC or $36.50 plus shipping for the 5GB/32GB variant.
+- https://www.banana-pi.org/en/banana-pi-sbcs/171.html
+
+### Orange Pi Zero 2W
+- $22-$33 depending on ram 1G-4G
+- https://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-Zero-2W.html
+- Thread on power mangment https://forum.armbian.com/topic/11088-how-to-return-orange-pi-zero-from-power-saving-mode/
