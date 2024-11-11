@@ -82,6 +82,9 @@ This is where I am collecting options for building a "palm top" computer to carr
 ### Pointing Stick
 - https://www.digikey.com/en/products/detail/interlink-electronics/24-86695/8602366
 
+### Mini trackball
+- https://shop.pimoroni.com/products/trackball-breakout
+
 ## SBCs
 
 ### Banana Pi BPI-M4 Zero with Allwinner H618 chip design with 2G RAM
